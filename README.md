@@ -11,11 +11,13 @@
 <!-- Profile Summary Card -->
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x-actly&theme=github_dark)](https://github.com/x-actly)
 
-<!-- Top Languages Card -->
-[![Top Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x-actly&theme=github_dark)](https://github.com/x-actly)
-
-<!-- Commits per Day Card -->
-[![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x-actly&theme=github_dark&utcOffset=8)](https://github.com/x-actly)
+<!-- Two Cards Side-by-Side -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x-actly&theme=github_dark" alt="Top Languages Card" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x-actly&theme=github_dark&utcOffset=8" alt="Commits Card" /></td>
+  </tr>
+</table>
 
 ---
 
